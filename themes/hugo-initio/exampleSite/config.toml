@@ -1,13 +1,13 @@
-baseURL = "/"
-languageCode = "es-ES"
+baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
+languageCode = "en-us"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
-publishDir = "public"
+publishDir = "docs"
 
 [params]
-    name = "Javier Gonzalez"
+    name = "Anthony Russel"
     description = "A mystery person"
-    email = "javier.gonzalez.grandez@gmail.com"
+    email = "anthony.russel42@example.com"
     phone = "+234 23 9873237"
     address = "234 Hidden Pond Road, Ashland City, TN 37015"
     year = 2017
